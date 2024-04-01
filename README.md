@@ -1,10 +1,14 @@
-# Graduate jobs in London by Huzzle
+# Graduate jobs in London by Huzzle & UCL Guild
+Use this repo to find 1,000s of live graduate roles in London!  ⚠️ Please note that this repo is exclusive for roles in London. ⚠️
 
-Use this repo to find 1,000s of live graduate roles in London 💻
+-----
+<p align="center"> <i>Tired of checking for new jobs every day?</i></p>
 
-⚠️ Please note that this repo is exclusive for roles in London 🌍
+<p align="center"> <i><a href="https://huzzle.app?utm_source=GHList&utm_medium=text">Join Huzzle and get sent personalised opportunities every single week 💚</a></i></p>
 
-Tired of checking for new jobs every day? Join [Huzzle](https://huzzle.app) and get sent personalised opportunities every single week 💚
+<p align="center"><a href="https://huzzle.app?utm_source=GHList&utm_medium=banner"><img src="https://uploads-ssl.webflow.com/652d2475f39e846f2116f06b/660b2cd59fe2d84ed8bde09e_huzzle.png" alt="Huzzle" style="width:450px;height:158px;"></a>
+
+-----
 
 | Company | Job Title | Location | Apply URL |
 |--------------|----------|----------|-----------|

@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="KM4tSk_JTG-NbJaWNpy8OH3_hQ8Gu38k2ZHmQEbvBt4" />
-
 # Graduate jobs in London by Huzzle, UCL Guild & Impact Careers
 Use this repo to find 1,000s of live graduate roles in London!  Please note that this repo is exclusive for roles in London :)
 

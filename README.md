@@ -1,8 +1,6 @@
 # 2024 Graduate jobs in London by Huzzle, UCL Guild & Impact Careers
 
-Struggling to find exciting graduate roles in London? 
-
-Use this repo to find **1,000+ live graduate roles in London**!
+Struggling to find exciting graduate roles in London? Use this repo to find **1,000+ live graduate roles**!
 
 ⚠️ Please note that this repo is exclusive for roles in London :) 🇬🇧
 

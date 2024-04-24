@@ -28,8 +28,6 @@ Use this repo to find **1,000+ live graduate roles in London**!
 -----
 ## The Job List 🫡
 
------
-
 | Company | Job Title | Location | Apply URL |
 |--------------|----------|----------|-----------|
 | [United Media](https://huzzle.app/companies/united-media) | Brand Management Associate | London, United Kingdom | [Apply](https://huzzle.app/jobs/brand-management-associate-ab35bcef-3708-4190-ae0b-91c1812cb416) |
